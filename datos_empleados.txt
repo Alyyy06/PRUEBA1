@@ -1,0 +1,3 @@
+Alidsabeth , 19, Soltero/a, Femenino, Menos de 1000bs
+Nombre y Apellido: luzmila, Edad: 20, Estado Civil: Casado/a, Sexo: Femenino, Sueldo: Entre 1000 y 2500 bs
+Nombre y Apellido: Alidsabeth , Edad: 19, Estado Civil: Soltero/a, Sexo: Masculino, Sueldo: Entre 1000 y 2500 bs
